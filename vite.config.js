@@ -10,5 +10,5 @@ export default defineConfig({
       },
     }),
   ],
-  base: "/components-03/",
+  base: "/react-hw-03-components/",
 });
